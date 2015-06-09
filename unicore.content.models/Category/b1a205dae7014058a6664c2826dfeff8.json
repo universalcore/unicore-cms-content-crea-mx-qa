@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "b1a205dae7014058a6664c2826dfeff8", 
+  "language": "spa_mx", 
+  "title": "Casos de \u00c9xito", 
+  "image": "6e51400acb5d4821a12a46a42c7388a7", 
+  "_version": {
+    "package_version": "1.2.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "casos-de-exito", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}
