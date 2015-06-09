@@ -1,0 +1,29 @@
+{
+  "subtitle": "Empoderando mujeres d\u00eda a d\u00eda.", 
+  "description": "", 
+  "language": "spa_mx", 
+  "title": "\u00bfQu\u00e9 hacemos?", 
+  "primary_category": "a4776cf11f2743159dd38a4f7638d7b5", 
+  "created_at": "2015-06-09T18:05:25.827760+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-06-09T18:05:25.827990+00:00", 
+  "_version": {
+    "package_version": "1.2.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "A trav\u00e9s de nuestros programas, damos apoyo a mujeres microempresarias para que puedan crecer empresas exitosas y generen oportunidades de ingreso y empleo. Buscamos impulsar el crecimiento econ\u00f3mico de los negocios liderados por mujeres de bajos recursos en \u00e1reas urbanas y semiurbanas.\r\n\r\nEntendemos que el \u00e9xito de los programas depende no s\u00f3lo del desarrollo de las beneficiarias como tomadoras de decisiones y l\u00edderes en sus empresas, hogares y comunidades, sino tambi\u00e9n del cambio de la mentalidad en cuanto al papel de la mujer como emprendedora, empresaria y tomadora de decisiones.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "544631901efd4a549422746479c3472b", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "que-hacemos", 
+  "uuid": "e2f080bdd7ce40beb52cfbd4ac416daa"
+}
