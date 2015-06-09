@@ -1,0 +1,29 @@
+{
+  "subtitle": "Un curioso negocio", 
+  "description": "", 
+  "language": "spa_MX", 
+  "title": "Alma Ver\u00f3nica - Aguascalientes", 
+  "primary_category": "b1a205dae7014058a6664c2826dfeff8", 
+  "created_at": "2015-06-09T18:38:16.089003+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-06-09T18:38:16.089215+00:00", 
+  "_version": {
+    "package_version": "1.2.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Alma Ver\u00f3nica es due\u00f1a de una negocio de incubaci\u00f3n de caracoles. Ella lleg\u00f3 a la conclusi\u00f3n que los caracoles son una fuente de prote\u00edna, de calcio, de vitaminas y, por si fuera poco, ayudan a la piel. Es un mercado que a\u00fan no est\u00e1 muy explotado en M\u00e9xico.\r\n\r\n\r\nGracias a los cursos impartidas por Crea, Alma se vincul\u00f3 con productores del estado de Veracruz para aprender m\u00e1s sobre la crianza y la venta del caracol. Actualmente, cuenta ya con el terreno en donde se har\u00eda la incubaci\u00f3n de los caracoles. \r\n\r\n\r\nEste a\u00f1o, Alma est\u00e1 elaborando los documentos para solicitar el apoyo correspondiente a su proyecto en el INAES (Instituto Nacional de la Econom\u00eda Social). La necesidad de inversi\u00f3n que ocupa es para la construcci\u00f3n del lugar de incubaci\u00f3n y para los materiales de la empresa. Asimismo, Alma comenta que las capacitaciones de Crea la impulsaron a querer asistir a m\u00e1s capacitaciones para la producci\u00f3n y para el control de la incubaci\u00f3n.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "14b8fb05c66b4193932ab34f80349f87", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "alma-veronica-aguascalientes", 
+  "uuid": "a170d8dae34e42b2bbf6b5a25f27d226"
+}
