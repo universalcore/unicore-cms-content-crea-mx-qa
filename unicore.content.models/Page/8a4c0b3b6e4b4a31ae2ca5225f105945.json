@@ -1,0 +1,29 @@
+{
+  "subtitle": "Escuela de baile", 
+  "description": "", 
+  "language": "spa_MX", 
+  "title": "Elizabeth - Toluca, Estado de M\u00e9xico", 
+  "primary_category": "b1a205dae7014058a6664c2826dfeff8", 
+  "created_at": "2015-06-09T18:36:20.731711+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-06-09T18:36:20.731926+00:00", 
+  "_version": {
+    "package_version": "1.2.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Elizabeth Garc\u00eda tiene 30 a\u00f1os y estableci\u00f3 una escuela de danza en su propio domicilio. En Mujeres Moviendo M\u00e9xico no s\u00f3lo pudo acceder a cursos y talleres que le dieron herramientas para el manejo de su negocio, tambi\u00e9n pudo conocer a otras mujeres empresarias como ella y replantearse sus sue\u00f1os y planes para su negocio. \r\n\r\nDespu\u00e9s de tomar el curso en Iniciativa Personal, ha decidido certificar su escuela y ampliar la oferta de talleres para incluir otros tipos de danzas. Asimismo, esta experiencia la motiv\u00f3 para hacer un cambio en su comunidad y ahora busca desarrollar un proyecto con j\u00f3venes de zonas marginadas, que a trav\u00e9s de la danza les permita alejarse de las drogas y de la delincuencia.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "54dd25fe8e2d480da23eda20724a6213", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "elizabeth-toluca-estado-de-mexico", 
+  "uuid": "8a4c0b3b6e4b4a31ae2ca5225f105945"
+}
