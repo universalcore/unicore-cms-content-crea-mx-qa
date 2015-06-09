@@ -1,0 +1,29 @@
+{
+  "subtitle": "Una organizaci\u00f3n dedicada a mujeres emprendedoras.", 
+  "description": "", 
+  "language": "spa_mx", 
+  "title": "\u00bfQUI\u00c9NES SOMOS?", 
+  "primary_category": "a4776cf11f2743159dd38a4f7638d7b5", 
+  "created_at": "2015-06-09T18:02:52.727847+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-06-09T18:02:52.728106+00:00", 
+  "_version": {
+    "package_version": "1.2.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Crea Comunidades de Emprendedores Sociales, A.C. es una Organizaci\u00f3n de la Sociedad Civil constituida en 2008 que desarrolla y ejecuta programas \u00fanicos y personalizados para empoderar e impulsar a mujeres emprendedoras y empresarias de zonas social y econ\u00f3micamente marginadas. \r\n\r\nResponde a las necesidades de estas mujeres por medio de una metodolog\u00eda participativa y pr\u00e1ctica, y de servicios personalizados.\r\nCrea viene de creer y de crear. Significa creer en lo que uno crea, en las habilidades de las mujeres, en su potencial y en el pa\u00eds. \u2018Crear\u2019: oportunidades y empresas. Creemos en las mujeres que creen y que crean en M\u00e9xico.\r\n", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": "8b89b560b75246c687a864ff7f4cd23b", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "quienes-somos", 
+  "uuid": "a56030b0fc164377a409566fc6dfe3ed"
+}
