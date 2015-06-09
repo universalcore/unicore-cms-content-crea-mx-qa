@@ -1,0 +1,29 @@
+{
+  "subtitle": "Uniendo a empresarias y emprendedoras mexicanas", 
+  "description": "", 
+  "language": "spa_MX", 
+  "title": "Red Crea", 
+  "primary_category": "118f7a923ff54b05881b2ec801a1719c", 
+  "created_at": "2015-06-09T18:31:07.347974+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-06-09T18:31:07.348169+00:00", 
+  "_version": {
+    "package_version": "1.2.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "La **Red Crea** es un espacio para que las mujeres ya capacitadas y que se encuentran en fase de desarrollo o sostenibilidad con alto potencial de crecimiento en t\u00e9rminos de generaci\u00f3n de empleo e ingresos se conozcan entre ellas, participen en asesor\u00edas personales, cl\u00ednicas de negocios y ferias y exposiciones de productos.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "0af545b52691445e8f05f02b5abea40d", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "red-crea", 
+  "uuid": "f1c22da26d43408db7c6ad644e312dc0"
+}
