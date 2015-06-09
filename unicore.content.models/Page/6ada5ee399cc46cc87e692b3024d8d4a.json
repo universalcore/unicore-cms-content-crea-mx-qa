@@ -1,0 +1,29 @@
+{
+  "subtitle": "Una alianza entre el INADEM y Crea.", 
+  "description": "", 
+  "language": "spa_MX", 
+  "title": "Mujeres Moviendo M\u00e9xico", 
+  "primary_category": "118f7a923ff54b05881b2ec801a1719c", 
+  "created_at": "2015-06-09T18:27:54.570039+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-06-09T18:27:54.570439+00:00", 
+  "_version": {
+    "package_version": "1.2.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "El proyecto piloto **Mujeres Moviendo M\u00e9xico** es el resultado de una alianza p\u00fablico-privado entre el Instituto Nacional del Emprendedor (INADEM) y Crea Comunidades de Emprendedores Sociales, A.C., adem\u00e1s del apoyo del Instituto Nacional de las Mujeres, los Estados de Aguascalientes, Distrito Federal, Estado de M\u00e9xico, Guanajuato y Quer\u00e9taro (el cual funge como organismo intermedio), y el Grupo Financiero Banorte, entre otros aliados p\u00fablicos y privados.\r\n\r\n\r\nEs una red de Centros de Desarrollo Empresarial que fungen como Puntos de la Red Mover a M\u00e9xico y que, adem\u00e1s, ofrecen capacitaci\u00f3n en habilidades empresariales, asistencia t\u00e9cnica, orientaci\u00f3n y servicios a mujeres emprendedoras en las entidades participantes. Asimismo, articula una red nacional de mujeres emprendedoras y cuenta con una plataforma de diagn\u00f3stico y asistencia en l\u00ednea para mujeres de toda la Rep\u00fablica.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "908d8ee537b74410a57343e5357c70a9", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "mujeres-moviendo-mexico", 
+  "uuid": "6ada5ee399cc46cc87e692b3024d8d4a"
+}
