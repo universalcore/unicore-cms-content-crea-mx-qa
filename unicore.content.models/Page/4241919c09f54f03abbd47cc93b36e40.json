@@ -1,0 +1,29 @@
+{
+  "subtitle": "Tamales innovadores", 
+  "description": "", 
+  "language": "spa_MX", 
+  "title": "Patricia - Toluca, Estado de M\u00e9xico.", 
+  "primary_category": "b1a205dae7014058a6664c2826dfeff8", 
+  "created_at": "2015-06-09T18:33:44.359723+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-06-09T18:33:44.359952+00:00", 
+  "_version": {
+    "package_version": "1.2.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Patricia decidi\u00f3 emprender en cuanto se dio cuenta de que ya no estaba contenta en su trabajo. Es entonces que decidi\u00f3 poner ZoneTamalli, su propio negocio de tamales en Toluca. No ten\u00eda capital para empezar y la competencia a la que se enfrentaba era muy grande. \r\nElla fue de las primeras mujeres participar en el programa Mujeres Moviendo M\u00e9xico. Patty dice que estos cursos fueron un parteaguas en su vida, que ah\u00ed fue donde aprendi\u00f3 a direccionar su negocio, a confiar en s\u00ed misma como mujer y como empresaria y a ser una mejor tomadora de decisiones. \r\n\r\n\r\nDesde que se capacit\u00f3, el rumbo de su negocio ha cambiado completamente: ha aplicado a convocatorias del INADEM con ayuda del personal del Centro y fue beneficiaria de 80,000 pesos. Gracias a esto, pudo mejorar su infraestructura y aumentar la producci\u00f3n de tamales. Ha sido muy innovadora, atrayendo a un p\u00fablico diferente gracias a tamales veganos. Es proveedora de una cadena de tiendas departamentales a nivel nacional y est\u00e1 comenzando a exportar a Argentina. ", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "9883af5b875c4087a88bb71cf2849d58", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "patricia-toluca-estado-de-mexico", 
+  "uuid": "4241919c09f54f03abbd47cc93b36e40"
+}
