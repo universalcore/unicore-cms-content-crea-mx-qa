@@ -1,0 +1,29 @@
+{
+  "subtitle": "Una madre soltera con iniciativa", 
+  "description": "", 
+  "language": "spa_MX", 
+  "title": "Judith - Distrito Federal", 
+  "primary_category": "b1a205dae7014058a6664c2826dfeff8", 
+  "created_at": "2015-06-09T18:39:12.513231+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-06-09T18:39:12.513461+00:00", 
+  "_version": {
+    "package_version": "1.2.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Judith es due\u00f1a de dos puestos de frutas y verduras en el Mercado Morelos en el Distrito Federal. Antes de comenzar las capacitaciones de Crea, era due\u00f1a de s\u00f3lo un puesto. Judith se ha visto en la necesidad de trabajar desde los 16 a\u00f1os y hoy nos damos cuenta de que es una mujer que siempre ha disfrutado estudiar. \r\n\r\n\r\nJudith demostr\u00f3 a lo largo de las capacitaciones un gran entendimiento del material, as\u00ed como una muy buena disposici\u00f3n y energ\u00eda para salir adelante. Comenta que gracias a la capacitaciones pudo aumentar sus ganancias, con lo que pudo hacerse del segundo puesto en el mercado. Adem\u00e1s, Judith afirma que las capacitaciones la han ayudado para poder administrar mejor el negocio, lo cual la ha ayudado a pagar las carreras profesionales de sus dos hijos. ", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "6fbb25516615450b85f17967db145859", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "judith-distrito-federal", 
+  "uuid": "eb0cb18e4c1c4ca5bbfac2acfb72eebf"
+}
