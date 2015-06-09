@@ -1,0 +1,29 @@
+{
+  "subtitle": "Llevando nuestros cursos a Internet", 
+  "description": "", 
+  "language": "spa_MX", 
+  "title": "Cursos Crea ", 
+  "primary_category": "118f7a923ff54b05881b2ec801a1719c", 
+  "created_at": "2015-06-09T18:29:52.690819+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-06-09T18:29:52.691040+00:00", 
+  "_version": {
+    "package_version": "1.2.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "\r\n\r\n> **Herramientas Digitales**\r\n\r\n\r\n\r\nM\u00e1s de la mitad de la poblaci\u00f3n de M\u00e9xico est\u00e1 conectada al Internet, haci\u00e9ndolo cada vez m\u00e1s relevante para las empresas que quieren comunicar con sus clientes. Las herramientas digitales presentes en Internet pueden ser de gran ayuda para los negocios de las mujeres mexicanas si saben c\u00f3mo usarlas. Sin embargo, pese a esta tendencia de penetraci\u00f3n de Internet, la brecha en conocimiento digital es grande y en desfavor a las microempresarias.\r\n\r\nEl curso de **Herramientas Digitales** de Crea tiene como objetivo el desarrollo de habilidades comerciales en Internet de las mujeres empresarias y emprendedoras de M\u00e9xico. El curso busca ayudarlas a promocionar sus empresas fuera de las comunidades presenciales en las que est\u00e1n y en las que viven. Los cursos se dar\u00e1n tanto en l\u00ednea como de manera presencial.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "0ed06328b1da49349fe989f3f4d1104e", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "cursos-crea", 
+  "uuid": "226846c2b4654bf895025ab1e394ad60"
+}
