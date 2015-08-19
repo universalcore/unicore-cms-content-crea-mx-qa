@@ -10,11 +10,15 @@
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "a56030b0fc164377a409566fc6dfe3ed", 
+    "e2f080bdd7ce40beb52cfbd4ac416daa", 
+    "5c565f1355c447d2823baacccee5f18f"
+  ], 
   "id": null, 
   "content": "A trav\u00e9s de nuestros programas, damos apoyo a mujeres microempresarias para que puedan crecer empresas exitosas y generen oportunidades de ingreso y empleo. Buscamos impulsar el crecimiento econ\u00f3mico de los negocios liderados por mujeres de bajos recursos en \u00e1reas urbanas y semiurbanas.\r\n\r\nEntendemos que el \u00e9xito de los programas depende no s\u00f3lo del desarrollo de las beneficiarias como tomadoras de decisiones y l\u00edderes en sus empresas, hogares y comunidades, sino tambi\u00e9n del cambio de la mentalidad en cuanto al papel de la mujer como emprendedora, empresaria y tomadora de decisiones.", 
   "source": null, 
