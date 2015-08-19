@@ -6,12 +6,12 @@
   "primary_category": "b1a205dae7014058a6664c2826dfeff8", 
   "created_at": "2015-06-09T18:40:21.016954+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-06-09T18:40:21.017315+00:00", 
+  "modified_at": "2015-08-19T17:06:30.830710+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -28,7 +28,7 @@
   "author_tags": [], 
   "image": "50af0cc091d04368b675cb65013c3675", 
   "published": null, 
-  "position": 0, 
+  "position": 1, 
   "image_host": "http://qa.thumbor.unicore.io", 
   "slug": "petra-guanajuato", 
   "uuid": "1efaf7dec462408694c7d33d2e83e817"
