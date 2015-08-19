@@ -3,12 +3,12 @@
   "uuid": "b1a205dae7014058a6664c2826dfeff8", 
   "language": "spa_MX", 
   "title": "Casos de \u00c9xito", 
-  "image": "a659ba1ba16d4cd79ffc4f7e08680b33", 
+  "image": "e73a994dc2b94ae99539e91c994b87f1", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "slug": "casos-de-exito", 
