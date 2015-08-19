@@ -10,13 +10,11 @@
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [
-    "5c565f1355c447d2823baacccee5f18f"
-  ], 
+  "linked_pages": [], 
   "id": null, 
   "content": "Para m\u00e1s informaci\u00f3n \r\n\r\nPor favor escr\u00edbenos si requieres m\u00e1s informaci\u00f3n en: info@crea.org.mx\r\n\r\nVis\u00edtanos en [www.crea.org.mx][1]\r\n\r\nD\u00e1nos \"Me gusta\" en [Facebook][2]\r\n\r\n\r\n  [1]: http://www.crea.org.mx\r\n  [2]: http://www.facebook.com/CreaComunidadesEmprendedoresSociales", 
   "source": null, 
