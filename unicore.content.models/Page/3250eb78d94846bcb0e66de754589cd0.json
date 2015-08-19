@@ -6,12 +6,12 @@
   "primary_category": "9895a4f5cd914fe185594083360b8cea", 
   "created_at": "2015-06-09T18:46:01+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-08-19T17:08:41.488412+00:00", 
+  "modified_at": "2015-08-19T17:31:09.288514+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -20,11 +20,11 @@
   "id": null, 
   "content": "Para m\u00e1s informaci\u00f3n \r\n\r\nPor favor escr\u00edbenos si requieres m\u00e1s informaci\u00f3n en: info@crea.org.mx\r\n\r\nVis\u00edtanos en [www.crea.org.mx][1]\r\n\r\nD\u00e1nos \"Me gusta\" en [Facebook][2]\r\n\r\n\r\n  [1]: http://www.crea.org.mx\r\n  [2]: http://www.facebook.com/CreaComunidadesEmprendedoresSociales", 
   "source": null, 
-  "featured": false, 
+  "featured": true, 
   "author_tags": [], 
   "image": "10f766dfa73149ab8b4d5d4beac11bf1", 
   "published": null, 
-  "position": 0, 
+  "position": 1, 
   "image_host": "http://qa.thumbor.unicore.io", 
   "slug": "contacto", 
   "uuid": "3250eb78d94846bcb0e66de754589cd0"
